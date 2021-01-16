@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Backgrounds for Chrome-Chan",
+    "version": "1.0",
+    "description": "Sets a random anime wallpaper for your new tabs.",
+    "icons": {
+        "16": "Icons/icon16.png",
+        "48": "Icons/icon48.png",
+        "128": "Icons/icon128.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newTab.html"
+    }
+}
